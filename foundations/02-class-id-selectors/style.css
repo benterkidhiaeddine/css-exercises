@@ -1,0 +1,19 @@
+.simple {
+    background-color: rgb(228, 139, 154);
+    font-family: Verdana,'DejaVu Sans',sans-serif;
+}
+
+.simple.cool {
+    font-size: 24px;
+}
+
+#special1 {
+    color :rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#special2 {
+    background-color: rgb(36, 182, 92);
+    font-weight: bold;
+    font-size: 24px;
+}
